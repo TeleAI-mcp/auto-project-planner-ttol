@@ -1,2 +1,3 @@
-# auto-project-planner-ttol
-Automated issue comment bot repository
+# Auto Project Planner Ttol
+
+Automated issue comment bot repository.
